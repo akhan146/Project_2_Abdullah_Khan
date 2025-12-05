@@ -18,7 +18,7 @@ The goal of Project 2 is to demonstrate how OOP organizes related data and behav
 ## Github Repositroy Structure
 
 ```
-C:.
+C:Project_2_Abdullah_Khan.
 │   .gitignore
 │   LICENSE
 │   README.MD
@@ -31,12 +31,11 @@ C:.
 │       basic_usage.py
 │
 └───src
-    │   library.functions.py
+    │   library_functions.py
     │   library_item.py
     │   member.py
     │
     └───loan.py
-
 ---
 
 ## 🧠 Object-Oriented Design Summary
